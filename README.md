@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lauradauzat
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, PHP, React
+- 👀 I’m interested in Web Development, mostly Frontend
+- 💻 L I’m currently using HTML, CSS, JS, PHP, React
 - 📫 How to reach me https://www.linkedin.com/in/lauradauzat/
 
 <!---
